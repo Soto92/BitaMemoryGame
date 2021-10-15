@@ -2,7 +2,7 @@
 
 Jogo da memória feito em react-native com o tema do Mundo Bita (em homengame ao meu filho Rafael de 10 meses que gosta desse desenho :D).
 
-Some dependencies:
+Alguma dependências:
 ```
 Node: "12.22.6",
 react: "17.0.0",
@@ -15,7 +15,7 @@ react-native: "0.66.0",
 Como rodar:
 
 ```
-npm install //instalar dependencias
+npm install //instalar dependências
 ```
 
 ```
